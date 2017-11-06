@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="https://cloud.githubusercontent.com/assets/3603793/15085619/b7b0423a-13b1-11e6-8e47-e8ed523f6ff6.png" width="200">
-</p>
-
-# My Coding Style
+# Cubo - Coding Style
 
 [![license](https://img.shields.io/github/license/cubonetwork/coding-style.svg)](./license.md)
 [![GitHub contributors](https://img.shields.io/github/contributors/cubonetwork/coding-style.svg)](https://github.com/cubonetwork/coding-style/graphs/contributors)
