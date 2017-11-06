@@ -1,4 +1,4 @@
-# Cubo - Front-End Coding Style
+# Front-end 
 
 > "Every line of code should appear to be written by a single person, no matter the number of contributors." - Chinese Proverb.
 
