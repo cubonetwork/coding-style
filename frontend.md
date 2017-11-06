@@ -1,8 +1,5 @@
 # Cubo - Front-End Coding Style
 
-[![license](https://img.shields.io/github/license/cubonetwork/coding-style.svg)](./license.md)
-[![GitHub contributors](https://img.shields.io/github/contributors/cubonetwork/coding-style.svg)](https://github.com/cubonetwork/coding-style/graphs/contributors)
-
 > "Every line of code should appear to be written by a single person, no matter the number of contributors." - Chinese Proverb.
 
 The following document describes the rules of writing in development languages that I use: HTML, CSS and JavaScript.
